@@ -1,4 +1,4 @@
---htz11
+--Death Stranding 2：On the Beach
 addappid(3280350)
 addappid(3280351, 1, "adedba4e249ea03aa263769ddb3bccd36a54816bbe471c73c51c5b1569187d00")
 addappid(3280352, 1, "4a43534f83813efc865429cc3edb56f45db455c86e8373827711e5c447f0d7e3")
